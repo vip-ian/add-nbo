@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/add-nbo.dir/add-nbo.c.o" -o add-nbo 
