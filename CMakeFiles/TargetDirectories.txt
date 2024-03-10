@@ -1,3 +1,0 @@
-/home/kali/cp/add-nbo/CMakeFiles/add-nbo.dir
-/home/kali/cp/add-nbo/CMakeFiles/edit_cache.dir
-/home/kali/cp/add-nbo/CMakeFiles/rebuild_cache.dir
